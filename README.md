@@ -6,6 +6,7 @@ The analysis includes exploratory data analysis (EDA), geospatial mapping, trend
 
 ## Data Source
 The data is sourced directly from **Our World in Data (OWID)**.
+- **GitHub:**: https://github.com/owid/covid-19-data
 - **Source:** `https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv`
 
 ## Key Features & Analysis
