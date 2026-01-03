@@ -43,7 +43,7 @@ The notebook is structured into the following key sections:
 
 - **Pandas**: For data manipulation and ingestion.
 - **NumPy**: For numerical operations.
-- **Matplotlib & Seaborn**: For static plotting and statistical graphics.
+- **Matplotlib**: For static plotting and statistical graphics.
 - **Plotly**: For interactive visualizations and maps.
 - **Datetime**: For time-series handling.
 
