@@ -7,7 +7,6 @@ The analysis includes exploratory data analysis (EDA), geospatial mapping, trend
 ## Data Source
 The data is sourced directly from **Our World in Data (OWID)**.
 - **Source:** `https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv`
-- **Updates:** The notebook is designed to fetch the latest available data directly from the source URL during execution.
 
 ## Key Features & Analysis
 The notebook is structured into the following key sections:
