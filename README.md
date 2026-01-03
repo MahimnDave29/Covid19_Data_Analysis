@@ -22,7 +22,7 @@ The notebook is structured into the following key sections:
     - Country-specific deep dives.
 3.  **Geospatial Visualization**:
     - Mapping COVID-19 spread across the globe to identify hotspots.
-    <img width="1538" height="566" alt="image" src="https://github.com/user-attachments/assets/293fb745-db28-4b15-a4ff-699108ad50fd" />
+    <img width="1540" height="563" alt="image" src="https://github.com/user-attachments/assets/bee02df8-0df7-477b-ad77-c3e3a8d0243b" />
     <img width="1545" height="563" alt="image" src="https://github.com/user-attachments/assets/608e6099-094b-460d-ae50-33720b310077" />
     <img width="1645" height="630" alt="image" src="https://github.com/user-attachments/assets/71ef6312-82b9-4057-a384-d83329621131" />
 
