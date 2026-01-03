@@ -21,12 +21,22 @@ The notebook is structured into the following key sections:
     - Country-specific deep dives.
 3.  **Geospatial Visualization**:
     - Mapping COVID-19 spread across the globe to identify hotspots.
+    <img width="1538" height="566" alt="image" src="https://github.com/user-attachments/assets/293fb745-db28-4b15-a4ff-699108ad50fd" />
+    <img width="1545" height="563" alt="image" src="https://github.com/user-attachments/assets/608e6099-094b-460d-ae50-33720b310077" />
+    <img width="1645" height="630" alt="image" src="https://github.com/user-attachments/assets/71ef6312-82b9-4057-a384-d83329621131" />
+
 4.  **Temporal Evolution**:
     - Analyzing the evolution of cases over time.
+    <img width="1550" height="643" alt="image" src="https://github.com/user-attachments/assets/ed730734-f2d9-45f1-8d15-5fd449718527" />
+    <img width="1539" height="626" alt="image" src="https://github.com/user-attachments/assets/52cbe523-570e-43db-8247-6373770780e0" />
+    <img width="1535" height="629" alt="image" src="https://github.com/user-attachments/assets/37ea95e7-42d2-4d69-9a6f-900c8d2bfd96" />
+
 5.  **Comparative Analysis**:
     - Comparing metrics between different countries and continents.
+    <img width="1607" height="545" alt="image" src="https://github.com/user-attachments/assets/ee16d4a5-8c91-4241-82f8-d33712e8fd02" />
 6.  **Visualization Export**:
     - Formatting and processing data for external visualization tools (e.g., Flourish Bar Chart Race).
+    <img width="1846" height="890" alt="image" src="https://github.com/user-attachments/assets/e900ccad-1362-444b-957c-c9248e43afe8" />
 
 ## Libraries used:
 
@@ -36,12 +46,4 @@ The notebook is structured into the following key sections:
 - **Plotly**: For interactive visualizations and maps.
 - **Datetime**: For time-series handling.
 
-## Visualizations
-The notebook generates various plots, including:
-- **Time-series line charts** showing the rise of cases.
-- **Choropleth maps** displaying global density of cases.
-- **Bar chart Race** comparing top affected countries.
 
- Flourish Bar Chart 
-
-<img width="1846" height="890" alt="image" src="https://github.com/user-attachments/assets/e900ccad-1362-444b-957c-c9248e43afe8" />
