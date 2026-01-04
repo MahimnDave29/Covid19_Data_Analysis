@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis
 
 ## Project Overview
-This project provides a comprehensive analysis of the COVID-19 pandemic using global data. The notebook explores the spread, evolution, and impact of the virus across different countries and continents. 
+This project provides a comprehensive analysis of the COVID-19 pandemic using global data. This project explores the spread, evolution, and impact of the virus across different countries and continents. 
 The analysis includes exploratory data analysis (EDA), geospatial mapping, trend evaluation over time, and preparation for dynamic visualizations like Bar Chart Races.
 
 ## Data Source
